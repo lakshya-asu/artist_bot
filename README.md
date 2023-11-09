@@ -7,7 +7,7 @@ This can be extended to any combination of pixels as needed!
 ## Background
 As a gamer, pixel artist and roboticist, I thought it'd be fun to make a robot do something that links all three. The task I want to achieve with this project is to give the robot an input of a 4×4 pixel art, give it some colored blocks and ask it to arrange them in the way it looks in the artwork.
 This project involves robotic arm movements and kinematics and computer vision.
-
+![alt text](amongus.png)
 
 ## Workflow
 
